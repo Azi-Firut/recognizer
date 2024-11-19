@@ -1,0 +1,6 @@
+{
+  ".txt":"process_txt.py",
+  ".log":"diagv2.py",
+  ".xls":"process_xls.py",
+  "directory": "process_directory.py"
+}
